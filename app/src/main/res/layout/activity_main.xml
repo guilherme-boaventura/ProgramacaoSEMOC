@@ -13,8 +13,8 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:context=".MainActivity"
-        >
+        android:visibility="visible"
+        tools:context=".MainActivity">
 
 
         <TextView
@@ -23,10 +23,10 @@
             android:layout_height="166dp"
             android:text="EIXO 3 - POVOS TRADICIONAIS E O DIREITO AO TERRITÓRIO Mesa-redonda: Povos tradicionais e o direito ao território Coordenação: Débora Carol Luz da Porciuncula Participantes: Dona Donana, Mãe espiritual do Quilombo Quingoma Prof. Dr. Paulo Rosa Torres (Universidade Estadual de Feira de Santana) Prof. Dr. Gregório Mesa Cuadros (Universidad Nacional de Colombia) Sra. Rita Ferreira (MSTB) Moderação: Prof. Dr. Manuel Vitor Portugal Gonçalves e Profa. Me. Vinnie Mayana Lima Ramos"
             android:textAlignment="center"
-            app:layout_constraintEnd_toEndOf="@+id/textView15"
+            app:layout_constraintEnd_toEndOf="@+id/textView27"
             app:layout_constraintHorizontal_bias="1.0"
-            app:layout_constraintStart_toStartOf="@+id/textView15"
-            tools:layout_editor_absoluteY="810dp" />
+            app:layout_constraintStart_toStartOf="@+id/textView27"
+            tools:layout_editor_absoluteY="1050dp" />
 
         <TextView
             android:id="@+id/textView25"
@@ -36,7 +36,7 @@
             app:layout_constraintEnd_toEndOf="@+id/textView17"
             app:layout_constraintHorizontal_bias="0.25"
             app:layout_constraintStart_toStartOf="@+id/textView17"
-            tools:layout_editor_absoluteY="792dp" />
+            tools:layout_editor_absoluteY="1030dp" />
 
         <TextView
             android:id="@+id/textView26"
@@ -62,6 +62,51 @@
             tools:layout_editor_absoluteY="770dp" />
 
         <TextView
+            android:id="@+id/textView27"
+            android:layout_width="356dp"
+            android:layout_height="166dp"
+            android:text="EIXO 3 - POVOS TRADICIONAIS E O DIREITO AO TERRITÓRIO Mesa-redonda: Povos tradicionais e o direito ao território Coordenação: Débora Carol Luz da Porciuncula Participantes: Dona Donana, Mãe espiritual do Quilombo Quingoma Prof. Dr. Paulo Rosa Torres (Universidade Estadual de Feira de Santana) Prof. Dr. Gregório Mesa Cuadros (Universidad Nacional de Colombia) Sra. Rita Ferreira (MSTB) Moderação: Prof. Dr. Manuel Vitor Portugal Gonçalves e Profa. Me. Vinnie Mayana Lima Ramos"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="@+id/textView15"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="@+id/textView15"
+            tools:layout_editor_absoluteY="810dp" />
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="das 9h30 às 12h"
+            app:layout_constraintEnd_toEndOf="@+id/textView17"
+            app:layout_constraintHorizontal_bias="0.25"
+            app:layout_constraintStart_toStartOf="@+id/textView17"
+            tools:layout_editor_absoluteY="792dp" />
+
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="110dp"
+            android:layout_height="29dp"
+            android:background="#74ACACAC"
+            android:text="ONLINE YouTube - UCSAL Oficial "
+            android:textAlignment="center"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="@+id/textView26"
+            app:layout_constraintStart_toStartOf="@+id/textView26"
+            tools:layout_editor_absoluteY="1019dp" />
+
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="54dp"
+            android:layout_height="22dp"
+            android:text="18/10"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="@+id/textView18"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/textView18"
+            tools:layout_editor_absoluteY="1007dp" />
+
+        <TextView
             android:id="@+id/textView15"
             android:layout_width="354dp"
             android:layout_height="118dp"
@@ -78,9 +123,9 @@
             android:layout_height="22dp"
             android:text="18/10"
             android:textSize="20sp"
-            app:layout_constraintEnd_toEndOf="@+id/textView3"
+            app:layout_constraintEnd_toEndOf="@+id/textView10"
             app:layout_constraintHorizontal_bias="0.0"
-            app:layout_constraintStart_toStartOf="@+id/textView3"
+            app:layout_constraintStart_toStartOf="@+id/textView10"
             tools:layout_editor_absoluteY="600dp" />
 
         <TextView
@@ -118,7 +163,7 @@
             android:id="@+id/textView5"
             android:layout_width="354dp"
             android:layout_height="136dp"
-            android:text="ABERTURA Profa. Dra. Roberta Gontijo - Reitora Prof. Dr. Deivid Carvalho Lorenzo - Pró Reitor de Graduação Profa. Dra. Silvana Sá de Carvalho CONFERÊNCIA DE ABERTURA Profa. Dra. Theresinha Guimarães Miranda (UFBA) Prof. Dr. João Danilo Batista de Oliveira (UNEB e CEE-BA) Alexandre Carvalho Baroni (SJDHDS-BA) Moderação: Matheus Martins de Oliveira (UCSAL e OAB-BA)"
+            android:text="ABERTURA \n Profa. Dra. Roberta Gontijo - Reitora Prof. Dr. Deivid Carvalho Lorenzo - Pró Reitor de Graduação Profa. Dra. Silvana Sá de Carvalho \n CONFERÊNCIA DE ABERTURA \n Profa. Dra. Theresinha Guimarães Miranda (UFBA) Prof. Dr. João Danilo Batista de Oliveira (UNEB e CEE-BA) Alexandre Carvalho Baroni (SJDHDS-BA) \n"
             android:textAlignment="center"
             app:layout_constraintEnd_toEndOf="@+id/textView4"
             app:layout_constraintHorizontal_bias="0.497"
