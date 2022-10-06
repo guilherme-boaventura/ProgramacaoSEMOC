@@ -99,49 +99,49 @@
     </string-array>
 
     <string-array name="datasehoras">
-        <item> 17/10 das 18h30 as 21h </item>
-        <item> 18/10 das 9 as 10h</item>
-        <item> 18/10 das 9h30 as 12h </item>
-        <item> 18/10 das 9h30 as 12h</item>
-        <item> 18/10 das 9h30 as 12h</item>
-        <item> 18/10 das 9h30 as 12h</item>
-        <item> 18/10 das 10 as 11h</item>
-        <item> 18/10 das 14 as 16h30</item>
-        <item> 18/10 das 14 as 16h30</item>
-        <item> 18/10 das 14 as 16h30</item>
-        <item> 18/10 das 14 as 16h30</item>
-        <item> 18/10 das 14 as 16h30</item>
-        <item> 18/10 das 18:30 as 21h</item>
-        <item> 18/10 das 18:30 as 21h</item>
-        <item> 18/10 das 18:30 as 21h</item>
-        <item> 19/10 das 9h30 as 12h</item>
-        <item> 19/10 das 9h30 as 12h</item>
-        <item> 19/10 das 9h30 as 12h</item>
-        <item> 19/10 das 9h30 as 12h</item>
-        <item> 19/10 das 14 as 16h30</item>
-        <item> 19/10 das 14 as 16h30</item>
-        <item> 19/10 das 14 as 16h30</item>
-        <item> 19/10 das 14 as 16h30</item>
-        <item> 19/10 das 14 as 16h30</item>
-        <item> 19/10 das 18h30 as 21h</item>
-        <item> 19/10 das 18h30 as 21h</item>
-        <item> 20/10 das 9 as 10h</item>
-        <item> 20/10 das 9:30 as 12h</item>
-        <item> 20/10 das 9:30 as 12h</item>
-        <item> 20/10 das 9:30 as 12h</item>
-        <item> 20/10 das 14 as 16h30</item>
-        <item> 20/10 das 14 as 16h30</item>
-        <item> 20/10 das 14 as 16h30</item>
-        <item> 20/10 das 14 as 16h30</item>
-        <item> 20/10 das 14 as 16h30</item>
-        <item> 20/10 das 18h30 as 21h</item>
-        <item> 20/10 das 18h30 as 21h</item>
-        <item> 20/10 das 18h30 as 21h</item>
-        <item> 20/10 das 18h30 as 21h</item>
-        <item> 21/10 das 9h30 as 12h</item>
-        <item> 21/10 das 9h30 as 12h</item>
-        <item> 21/10 das 9h30 as 12h</item>
-        <item> 21/10 das 9h30 as 12h</item>
+        <item>17/10 das 18h30 as 21h </item>
+        <item>18/10 das 9 as 10h</item>
+        <item>18/10 das 9h30 as 12h </item>
+        <item>18/10 das 9h30 as 12h</item>
+        <item>18/10 das 9h30 as 12h</item>
+        <item>18/10 das 9h30 as 12h</item>
+        <item>18/10 das 10 as 11h</item>
+        <item>18/10 das 14 as 16h30</item>
+        <item>18/10 das 14 as 16h30</item>
+        <item>18/10 das 14 as 16h30</item>
+        <item>18/10 das 14 as 16h30</item>
+        <item>18/10 das 14 as 16h30</item>
+        <item>18/10 das 18:30 as 21h</item>
+        <item>18/10 das 18:30 as 21h</item>
+        <item>18/10 das 18:30 as 21h</item>
+        <item>19/10 das 9h30 as 12h</item>
+        <item>19/10 das 9h30 as 12h</item>
+        <item>19/10 das 9h30 as 12h</item>
+        <item>19/10 das 9h30 as 12h</item>
+        <item>19/10 das 14 as 16h30</item>
+        <item>19/10 das 14 as 16h30</item>
+        <item>19/10 das 14 as 16h30</item>
+        <item>19/10 das 14 as 16h30</item>
+        <item>19/10 das 14 as 16h30</item>
+        <item>19/10 das 18h30 as 21h</item>
+        <item>19/10 das 18h30 as 21h</item>
+        <item>20/10 das 9 as 10h</item>
+        <item>20/10 das 9:30 as 12h</item>
+        <item>20/10 das 9:30 as 12h</item>
+        <item>20/10 das 9:30 as 12h</item>
+        <item>20/10 das 14 as 16h30</item>
+        <item>20/10 das 14 as 16h30</item>
+        <item>20/10 das 14 as 16h30</item>
+        <item>20/10 das 14 as 16h30</item>
+        <item>20/10 das 14 as 16h30</item>
+        <item>20/10 das 18h30 as 21h</item>
+        <item>20/10 das 18h30 as 21h</item>
+        <item>20/10 das 18h30 as 21h</item>
+        <item>20/10 das 18h30 as 21h</item>
+        <item>21/10 das 9h30 as 12h</item>
+        <item>21/10 das 9h30 as 12h</item>
+        <item>21/10 das 9h30 as 12h</item>
+        <item>21/10 das 9h30 as 12h</item>
 
 
 
@@ -149,49 +149,49 @@
 
 
     <string-array name="locais">
-        <item> Auditório - Térreo Bloco A </item>
-        <item> Sala Google</item>
-        <item> Auditório Terreo Bloco A</item>
-        <item> Sala 201 Bloco B </item>
-        <item> Auditório da Pós</item>
-        <item> Online - Youtube UCSAL</item>
+        <item>Auditório Bloco A </item>
+        <item>Sala Google</item>
+        <item>Auditório Bloco A </item>
+        <item>Sala 201 Bloco B </item>
+        <item>Auditório da Pós</item>
+        <item>Youtube UCSAL</item>
         <item>Sala Google</item>
         <item>Sala 201 Bloco B</item>
         <item>Sala 203 Bloco B</item>
         <item>Sala 204 Bloco B</item>
         <item>Sala 205 Bloco B</item>
-        <item> Auditório Terreo Bloco A</item>
-        <item> Auditório Terreo Bloco A</item>
-        <item> Auditório da Pós</item>
+        <item>Auditório Bloco A </item>
+        <item>Auditório Bloco A </item>
+        <item>Auditório da Pós</item>
         <item>Sala 201 Bloco B</item>
-        <item>Online - Youtube UCSAL</item>
-        <item> Auditório Terreo Bloco A</item>
+        <item>Youtube UCSAL</item>
+        <item>Auditório Bloco A</item>
         <item>Sala 201 Bloco B</item>
-        <item> Auditório da Pós</item>
-        <item>Sala 201 Bloco B</item>
-        <item>Sala 203 Bloco B</item>
-        <item>Sala 204 Bloco B</item>
-        <item>Sala 205 Bloco B</item>
-        <item> Auditório Terreo Bloco A</item>
-        <item> Auditório Terreo Bloco A</item>
-        <item>Sala 201 Bloco B</item>
-        <item> Sala Google</item>
-        <item> Online - Youtube UCSAL</item>
-        <item> Auditório Terreo Bloco A</item>
-        <item> Auditório da Pós</item>
+        <item>Auditório da Pós</item>
         <item>Sala 201 Bloco B</item>
         <item>Sala 203 Bloco B</item>
         <item>Sala 204 Bloco B</item>
         <item>Sala 205 Bloco B</item>
-        <item> Online - Youtube UCSAL</item>
-        <item> Online - Youtube UCSAL</item>
-        <item> Auditório da Pós</item>
-        <item> Auditório Terreo Bloco A</item>
+        <item>Auditório Bloco A </item>
+        <item>Auditório Bloco A </item>
         <item>Sala 201 Bloco B</item>
-        <item> Auditório Terreo Bloco A</item>
-        <item> Auditório da Pós</item>
+        <item>Sala Google</item>
+        <item>Youtube UCSAL</item>
+        <item>Auditório Bloco A </item>
+        <item>Auditório da Pós</item>
         <item>Sala 201 Bloco B</item>
-        <item> Online - Youtube UCSAL</item>
+        <item>Sala 203 Bloco B</item>
+        <item>Sala 204 Bloco B</item>
+        <item>Sala 205 Bloco B</item>
+        <item>Youtube UCSAL</item>
+        <item>Youtube UCSAL</item>
+        <item>Auditório da Pós</item>
+        <item>Auditório Bloco A </item>
+        <item>Sala 201 Bloco B</item>
+        <item>Auditório Bloco A </item>
+        <item>Auditório da Pós</item>
+        <item>Sala 201 Bloco B</item>
+        <item>Youtube UCSAL</item>
 
 
     </string-array>
