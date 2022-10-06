@@ -1,0 +1,204 @@
+<resources>
+    <string name="app_name">ProgramacaoSEMOC</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string-array name="eixos">
+    <item> </item>
+    <item> </item>
+    <item>Eixo 2</item>
+    <item>Eixo 2</item>
+        <item>Eixo 5</item>
+        <item>Eixo 3</item>
+        <item> </item>
+        <item>Tema 1</item>
+        <item>Tema 2</item>
+        <item>Tema 3</item>
+        <item>Tema 1</item>
+        <item>Eixo 4</item>
+        <item>Eixo 2</item>
+        <item>Eixo 2</item>
+        <item>Eixo 1</item>
+        <item>Eixo 3</item>
+        <item>Eixo 4</item>
+        <item>Eixo 2</item>
+        <item>Eixo 5</item>
+        <item>Tema 1</item>
+        <item>Tema 2</item>
+        <item>Tema 3</item>
+        <item>Tema 2</item>
+        <item>Eixo 5</item>
+        <item>Eixo 3</item>
+        <item>Eixo 2</item>
+        <item> </item>
+        <item>Eixo 3</item>
+        <item>Eixo 4</item>
+        <item>Eixo 5</item>
+        <item>Tema 1</item>
+        <item>Tema 2</item>
+        <item>Tema 3</item>
+        <item>Tema 1</item>
+        <item>Eixo 1</item>
+        <item>Eixo 2</item>
+        <item>Eixo 1</item>
+        <item>Eixo 1</item>
+        <item>Eixo 1</item>
+        <item>Eixo 4</item>
+        <item>Eixo 1</item>
+        <item>Eixo 3</item>
+        <item> </item>
+
+
+
+    </string-array>
+
+    <string-array name="temas">
+        <item>Abertura</item>
+        <item>Bate papo sobre o CEP</item>
+        <item>Direitos Fundamentais, Efetividade e Jurisdição Constitucional</item>
+        <item>Acessibilidade em Escolas Municipais</item>
+        <item>Primeira infância primeiro</item>
+        <item>Povos tradicionais e o direito ao território</item>
+        <item>Bate papo sobre o CEC</item>
+        <item>Geotecnologias aplicadas ao Planejamento Urbano</item>
+        <item>Encontro da COMTEC</item>
+        <item>Um exame do Racismo Ambiental no Saneamento Básico</item>
+        <item>Grupo de Pesquisa Territórios em Resistência</item>
+        <item>O Olhar na História para Identificar Caminhos da Ciência</item>
+        <item>O PIBID e a Residência Pedagógiac na UCSAL</item>
+        <item>Alteridade e busca de sentido para educação inclusiva e dialógica</item>
+        <item>Instrumentos democráticos por uma educação inclusiva e efetiva </item>
+        <item>Direito à moradia e violações na pandemia</item>
+        <item>Criminologia Crítica na América Latina</item>
+        <item>Inclusão educacional das pessoas com deficiência e boas práticas</item>
+        <item>Famílias e Educação: Novos olhares e reflexões sobre inclusão</item>
+        <item>Grupo de Pesquisa Gestão Democrática das Cidades</item>
+        <item>Grupo de Pesquisa Logoterapia e Análise existencial</item>
+        <item>Grupo de Pesquisa Politicas Públicas e Gestão Escolar</item>
+        <item>Grupo de Pesquisa Família, Inclusão e Desenvolvimento Humano</item>
+        <item>A pessoa com deficiência no ensino superior</item>
+        <item>A questão racial na educação e luta por direitos</item>
+        <item>A figura do poliedro em tempos de crise</item>
+        <item>Bate papo sobre carreira profissional</item>
+        <item>As cidades digitais, o Governo eletrônico e a participação popular</item>
+        <item>Bioética e Relação Médico-Paciente</item>
+        <item>Envelhecimento e Educação Inclusiva</item>
+        <item>Grupo de Pesquisa Processos Urbanos e Direito a Cidade</item>
+        <item>Grupo de Pesquisa Desenvolvimento, Sociedade e Natureza</item>
+        <item>Justiça Criminal Soteropolitana - encarando a atuação</item>
+        <item>Grupo de Pesquisa Conservação e Evolução de Ecossistemas</item>
+        <item>Racismo Ambiental, Refugiados Ambientais e Políticas Públicas</item>
+        <item>Paradigmas, Constituição e Educação pelos Direitos Humanos</item>
+        <item>Constituição, Política e Instituições Judiciais</item>
+        <item>A educação inclusiva como meio de ressocialização</item>
+        <item>Educação, Inclusão e Serviço Social</item>
+        <item>Pós-humanismo como novo paradigma</item>
+        <item>Políticas Públicas e Promoção das Capacidades</item>
+        <item>Arbitragem Empresarial e Acesso à Justiça</item>
+        <item>Encerramento</item>
+
+
+    </string-array>
+
+    <string-array name="datasehoras">
+        <item>17/10 das 18h30 as 21h </item>
+        <item>18/10 das 9 as 10h</item>
+        <item>18/10 das 9h30 as 12h </item>
+        <item>18/10 das 9h30 as 12h</item>
+        <item>18/10 das 9h30 as 12h</item>
+        <item>18/10 das 9h30 as 12h</item>
+        <item>18/10 das 10 as 11h</item>
+        <item>18/10 das 14 as 16h30</item>
+        <item>18/10 das 14 as 16h30</item>
+        <item>18/10 das 14 as 16h30</item>
+        <item>18/10 das 14 as 16h30</item>
+        <item>18/10 das 14 as 16h30</item>
+        <item>18/10 das 18:30 as 21h</item>
+        <item>18/10 das 18:30 as 21h</item>
+        <item>18/10 das 18:30 as 21h</item>
+        <item>19/10 das 9h30 as 12h</item>
+        <item>19/10 das 9h30 as 12h</item>
+        <item>19/10 das 9h30 as 12h</item>
+        <item>19/10 das 9h30 as 12h</item>
+        <item>19/10 das 14 as 16h30</item>
+        <item>19/10 das 14 as 16h30</item>
+        <item>19/10 das 14 as 16h30</item>
+        <item>19/10 das 14 as 16h30</item>
+        <item>19/10 das 14 as 16h30</item>
+        <item>19/10 das 18h30 as 21h</item>
+        <item>19/10 das 18h30 as 21h</item>
+        <item>20/10 das 9 as 10h</item>
+        <item>20/10 das 9:30 as 12h</item>
+        <item>20/10 das 9:30 as 12h</item>
+        <item>20/10 das 9:30 as 12h</item>
+        <item>20/10 das 14 as 16h30</item>
+        <item>20/10 das 14 as 16h30</item>
+        <item>20/10 das 14 as 16h30</item>
+        <item>20/10 das 14 as 16h30</item>
+        <item>20/10 das 14 as 16h30</item>
+        <item>20/10 das 18h30 as 21h</item>
+        <item>20/10 das 18h30 as 21h</item>
+        <item>20/10 das 18h30 as 21h</item>
+        <item>20/10 das 18h30 as 21h</item>
+        <item>21/10 das 9h30 as 12h</item>
+        <item>21/10 das 9h30 as 12h</item>
+        <item>21/10 das 9h30 as 12h</item>
+        <item>21/10 das 9h30 as 12h</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="locais">
+        <item>Auditório Bloco A </item>
+        <item>Sala Google</item>
+        <item>Auditório Bloco A </item>
+        <item>Sala 201 Bloco B </item>
+        <item>Auditório da Pós</item>
+        <item>Youtube UCSAL</item>
+        <item>Sala Google</item>
+        <item>Sala 201 Bloco B</item>
+        <item>Sala 203 Bloco B</item>
+        <item>Sala 204 Bloco B</item>
+        <item>Sala 205 Bloco B</item>
+        <item>Auditório Bloco A </item>
+        <item>Auditório Bloco A </item>
+        <item>Auditório da Pós</item>
+        <item>Sala 201 Bloco B</item>
+        <item>Youtube UCSAL</item>
+        <item>Auditório Bloco A</item>
+        <item>Sala 201 Bloco B</item>
+        <item>Auditório da Pós</item>
+        <item>Sala 201 Bloco B</item>
+        <item>Sala 203 Bloco B</item>
+        <item>Sala 204 Bloco B</item>
+        <item>Sala 205 Bloco B</item>
+        <item>Auditório Bloco A </item>
+        <item>Auditório Bloco A </item>
+        <item>Sala 201 Bloco B</item>
+        <item>Sala Google</item>
+        <item>Youtube UCSAL</item>
+        <item>Auditório Bloco A </item>
+        <item>Auditório da Pós</item>
+        <item>Sala 201 Bloco B</item>
+        <item>Sala 203 Bloco B</item>
+        <item>Sala 204 Bloco B</item>
+        <item>Sala 205 Bloco B</item>
+        <item>Youtube UCSAL</item>
+        <item>Youtube UCSAL</item>
+        <item>Auditório da Pós</item>
+        <item>Auditório Bloco A </item>
+        <item>Sala 201 Bloco B</item>
+        <item>Auditório Bloco A </item>
+        <item>Auditório da Pós</item>
+        <item>Sala 201 Bloco B</item>
+        <item>Youtube UCSAL</item>
+
+
+    </string-array>
+
+
+
+
+    <string name="action_settings">Settings</string>
+    <string name="eixo1">Eixo 2:  Diversidade, Alteridade e Educação Inclusiva</string>
+</resources>
